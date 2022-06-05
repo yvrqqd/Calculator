@@ -1,0 +1,10 @@
+\# = main.java.operations.opers.Comment
+DEFINE = main.java.operations.opers.Define
+/ = main.java.operations.opers.Divide
+- = main.java.operations.opers.Minus
+* = main.java.operations.opers.Multiply
++ = main.java.operations.opers.Plus
+POP = main.java.operations.opers.Pop
+PRINT = main.java.operations.opers.Print
+PUSH = main.java.operations.opers.Push
+SQRT = main.java.operations.opers.Sqrt
